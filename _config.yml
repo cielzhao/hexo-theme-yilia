@@ -8,8 +8,8 @@ menu:
 subnav:
   github: "https://github.com/cielzhao"
   weibo: "https://weibo.com/2059457744/profile?topnav=1&wvr=6"
-  rss: "#"
-  zhihu: "#"
+  rss: "http://feed.feedsky.com/cielzhao"
+  #zhihu: "#"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -116,7 +116,7 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: false
   aboutme: '关于我'
 
 friends:
