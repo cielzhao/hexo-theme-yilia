@@ -8,7 +8,7 @@ menu:
 subnav:
   github: "https://github.com/cielzhao"
   weibo: "https://weibo.com/2059457744/profile?topnav=1&wvr=6"
-  rss: "http://feed.feedsky.com/cielzhao"
+  rss: atom.xml
   #zhihu: "#"
   #qq: "#"
   #weixin: "#"
@@ -23,7 +23,7 @@ subnav:
   #twitter: "#"
   #linkedin: "#"
 
-rss: /atom.xml
+
 
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
