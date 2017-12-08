@@ -7,21 +7,21 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/cielzhao"
-  weibo: "https://weibo.com/2059457744/profile?topnav=1&wvr=6"
+  segmentfault: "https://segmentfault.com/u/cielzhao"
+  weibo: "http://weibo.com/cielzhao"
+  jianshu: "http://www.jianshu.com/users/abbcdcf46473/timeline"
   rss: atom.xml
-  zhihu: "#"
-  qq: "#"
-  weixin: "#"
-  jianshu: "#"
-  douban: "#"
-  segmentfault: "#"
-  bilibili: "#"
-  acfun: "#"
-  mail: "mailto:litten225@qq.com"
-  facebook: "#"
-  google: "#"
-  twitter: "#"
-  linkedin: "#"
+  #zhihu: "https://www.zhihu.com/people/cielzhao"
+  #qq: "#"
+  #weixin: "#"
+  #douban: "https://www.douban.com/people/170749869/"
+  #bilibili: "#"
+  #acfun: "#"
+  #mail: "mailto:litten225@qq.com"
+  #facebook: "#"
+  #google: "#"
+  #twitter: "#"
+  #linkedin: "#"
 
 
 
