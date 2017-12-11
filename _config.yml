@@ -1,20 +1,20 @@
 # Header
 
 menu:
-  主页: /
-  随笔: /tags/随笔/
+ 主页: /
+ 作品集: /ciel/
 
 # SubNav
 subnav:
   github: "https://github.com/cielzhao"
-  segmentfault: "https://segmentfault.com/u/cielzhao"
   weibo: "http://weibo.com/cielzhao"
-  jianshu: "http://www.jianshu.com/users/abbcdcf46473/timeline"
   rss: atom.xml
-  #zhihu: "https://www.zhihu.com/people/cielzhao"
+  #segmentfault: "#"
+  #jianshu: "#"
+  #zhihu: "#"
   #qq: "#"
   #weixin: "#"
-  #douban: "https://www.douban.com/people/170749869/"
+  #douban: "#"
   #bilibili: "#"
   #acfun: "#"
   #mail: "mailto:litten225@qq.com"
