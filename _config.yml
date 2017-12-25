@@ -91,11 +91,11 @@ changyan_conf: false
 disqus: false
 
 #5、Gitment
-gitment_owner: false      #你的 GitHub ID
-gitment_repo: ''          #存储评论的 repo
+gitment_owner: cielzhao      #你的 GitHub ID
+gitment_repo: 'cielzhao.github.io'          #存储评论的 repo
 gitment_oauth:
-  client_id: ''           #client ID
-  client_secret: ''       #client secret
+  client_id: '2e8fcdf3ed644c313878'           #client ID
+  client_secret: '598dd926fa375cae4969c6f0f6ea08b798e96918'       #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
@@ -128,6 +128,3 @@ friends:
   友情链接6: http://localhost:4000/
 
 aboutme: Ciel，<br>前端菜鸟，<br>就职于某家小型创业公司。<br><br>热爱绘画，<br>热爱一切美好的事物。<br><br>以后会养一只可爱的小猫咪。
-
-#友言评论ID
-uyan: "2151269"
