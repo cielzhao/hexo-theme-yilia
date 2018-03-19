@@ -94,8 +94,8 @@ disqus: false
 gitment_owner: cielzhao      #你的 GitHub ID
 gitment_repo: 'cielzhao.github.io'          #存储评论的 repo
 gitment_oauth:
-  client_id: '2e8fcdf3ed644c313878'           #client ID
-  client_secret: '598dd926fa375cae4969c6f0f6ea08b798e96918'       #client secret
+  client_id: '9b3db032d99a8e95e30a'           #client ID
+  client_secret: '102e21e16604aef6a63abc998fff676614710231'       #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
