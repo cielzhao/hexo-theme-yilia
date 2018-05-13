@@ -1,13 +1,13 @@
 # Header
 
 menu:
- 主页: /
+ 主页: /ciel/
  ##作品集: /ciel/
 
 # SubNav
 subnav:
   github: "https://github.com/cielzhao"
-  weibo: "http://weibo.com/cielzhao"
+  weibo: "https://weibo.com/cielzhao"
   rss: atom.xml
   #segmentfault: "#"
   #jianshu: "#"
